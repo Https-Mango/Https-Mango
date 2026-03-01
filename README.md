@@ -1,16 +1,54 @@
-## Hi there 👋
-
-<!--
-**Https-Mango/Https-Mango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Https-Mango">
+  </head>
+  <body>
+    <header>
+      <h1>Hello guys!👋</h1>
+      <p>Here you will find information about me. :P</p>
+    </header>
+    <br>
+    <main>
+      <div>
+        <h2>Who am i?🤔</h2>
+        <p>My name is Magomet, i'm 15 year old frontend developer, my personality type is INTJ.</p>
+      </div>
+      <br>
+      <div>
+        <h2>My stack💻</h2>
+        <p>I have knowledge about these technologies: HTML, CSS, JavaScript, Git, Github, Bash (knowledge about linux).</p>
+      </div>
+      <br>
+      <div>
+        <h2>My web-site💻</h2>
+        <a href="https://">Repository</a>
+        <br>
+        <a href="https://">Page</a>
+      </div>
+      <br>
+      <div>
+        <h2>Interesting facts about me:</h2>
+        <p>- I love nature</p>
+        <p>- I love open source code</p>
+        <p>- I want to be a fullstack developer</p>
+        <p>- I use Arch btw <3</p>
+      </div>
+      <br>
+      <div>
+        <h2>My social networks:</h2>
+        <a href="https://t.me/Http_Mamed">Telegram</a>
+        <br>
+        <a href="https://">Tiktok</a>
+      </div>
+      <br>
+      <div>
+        <h2>Now i want to learn...</h2>
+        <p>1. Bootstrap</p>
+        <p>2. JavaScript (in depth)</p>
+        <p>3. VueJs</p>
+      </div>
+    </main>
+  </body>
+</html>
