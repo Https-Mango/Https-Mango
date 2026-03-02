@@ -29,6 +29,14 @@
       </div>
       <br>
       <div>
+        <h2>My favorite code-redactors</h2>
+        <p>1. Sublime-text</p>
+        <p>2. Lite-xl</p>
+        <p>3. Lapce</p>
+        <p>4. Vim</p>
+      </div>
+      <br>
+      <div>
         <h2>Interesting facts about me:</h2>
         <p>- I love nature</p>
         <p>- I love open source code</p>
