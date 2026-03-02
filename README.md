@@ -47,8 +47,6 @@
       <div>
         <h2>My social networks:</h2>
         <a href="https://t.me/Http_Mamed">Telegram</a>
-        <br>
-        <a href="https://">Tiktok</a>
       </div>
       <br>
       <div>
