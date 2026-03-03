@@ -23,9 +23,9 @@
       <br>
       <div>
         <h2>My web-site💻</h2>
-        <a href="https://">Repository</a>
+        <a href="https://github.com/Https-Mango/Https-Mango-Site/">Repository</a>
         <br>
-        <a href="https://">Page</a>
+        <a href="https://https-mango.github.io/Https-Mango-Site/">Page</a>
       </div>
       <br>
       <div>
